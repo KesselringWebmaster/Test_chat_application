@@ -1,0 +1,21 @@
+ul
+{
+    list-style-type: none;
+}
+
+li{
+    margin-top:10px;
+}
+
+.ajax-colored-text{
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.nick-name-colored-text{
+    color: blue;
+    font-weight: bold;
+}
+
+

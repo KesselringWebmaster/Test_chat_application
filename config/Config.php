@@ -11,7 +11,7 @@ class Config
     /*General array of the site settings*/
     public static $settings = array(
         'last_message_count' => 10,
-        'oldest_messages_number' => 3,
+        'oldest_messages_number' => 50,
         'last_symbols_number' => 5,
         'session_time_limit' => 28800, /* 8 hours */
         'nick_name_length' => 10,
